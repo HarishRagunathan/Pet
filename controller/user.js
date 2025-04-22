@@ -1,5 +1,5 @@
 const jwt = require('jsonwebtoken')
-const bcrypt=require('bcrypt')
+const bcrypt=require('bcrypt.js')
 const UserModel = require('../model/userModel')
 
 const jwt_screte = 'Hot-Cart'
